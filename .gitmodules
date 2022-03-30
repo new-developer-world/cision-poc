@@ -1,0 +1,3 @@
+[submodule "springboot-kafka"]
+	path = springboot-kafka
+	url = https://github.com/new-developer-world/springboot-kafka.git
