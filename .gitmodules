@@ -1,3 +1,6 @@
 [submodule "springboot-kafka"]
 	path = springboot-kafka
 	url = https://github.com/new-developer-world/springboot-kafka.git
+[submodule "spring-weblfux"]
+	path = spring-weblfux
+	url = https://github.com/new-developer-world/spring-weblfux.git
